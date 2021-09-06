@@ -1,0 +1,16 @@
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\bin\Debug\net6.0\DigitalInnovationOneDotnet.exe
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\bin\Debug\net6.0\DigitalInnovationOneDotnet.deps.json
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\bin\Debug\net6.0\DigitalInnovationOneDotnet.runtimeconfig.json
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\bin\Debug\net6.0\DigitalInnovationOneDotnet.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\bin\Debug\net6.0\DigitalInnovationOneDotnet.pdb
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.csproj.AssemblyReference.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.AssemblyInfoInputs.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.AssemblyInfo.cs
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.ImplicitNamespaceImports.cs
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\refint\DigitalInnovationOneDotnet.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.pdb
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\DigitalInnovationOneDotnet.genruntimeconfig.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DigitalInnovationOneDotnet\obj\Debug\net6.0\ref\DigitalInnovationOneDotnet.dll
