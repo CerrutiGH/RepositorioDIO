@@ -24,12 +24,12 @@ namespace DesafiosDIO
                         break;
 
                      case null:
-                        Console.WriteLine("Pressione a tecla Enter e escolha uma das opções: 0, 1, 2, 3 ou 4");
+                        Console.WriteLine("Pressione a tecla Enter e escolha uma das opções: 0, 1, 2 ou 3");
                         Console.ReadKey();
                         break;
 
                     default:
-                        Console.WriteLine("Pressione a tecla Enter e escolha uma das opções: 0, 1, 2, 3 ou 4");
+                        Console.WriteLine("Pressione a tecla Enter e escolha uma das opções: 0, 1, 2 ou 3");
                         Console.ReadKey();
                         break;
                 }
@@ -42,7 +42,7 @@ namespace DesafiosDIO
         {
             
             Console.Clear();
-            Console.WriteLine("================AppBanco================");
+            Console.WriteLine("============ Menu Principal ============");
             Console.WriteLine("=     1 - Primeiro Desafio             =");
             Console.WriteLine("=     2 - Segundo Desafio              =");
             Console.WriteLine("=     3 - Terceiro desafio             =");
