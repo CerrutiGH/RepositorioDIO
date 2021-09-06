@@ -1,0 +1,16 @@
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.exe
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.deps.json
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.runtimeconfig.json
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.pdb
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.csproj.AssemblyReference.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.AssemblyInfoInputs.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.AssemblyInfo.cs
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.ImplicitNamespaceImports.cs
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\refint\DesafiosDIO.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.pdb
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.genruntimeconfig.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DesafiosDIO\obj\Debug\net6.0\ref\DesafiosDIO.dll
