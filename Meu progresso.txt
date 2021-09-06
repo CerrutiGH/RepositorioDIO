@@ -1,0 +1,7 @@
+Everis:
+
+Scrum;
+Lógica de programação;
+Estrutura de Dados e algoritmos;
+Git e Github;
+Projeto do repositório
