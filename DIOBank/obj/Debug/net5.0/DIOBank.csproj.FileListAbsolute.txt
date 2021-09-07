@@ -1,0 +1,16 @@
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\bin\Debug\net5.0\DIOBank.exe
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\bin\Debug\net5.0\DIOBank.deps.json
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\bin\Debug\net5.0\DIOBank.runtimeconfig.json
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\bin\Debug\net5.0\DIOBank.runtimeconfig.dev.json
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\bin\Debug\net5.0\DIOBank.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\bin\Debug\net5.0\ref\DIOBank.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\bin\Debug\net5.0\DIOBank.pdb
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\DIOBank.csproj.AssemblyReference.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\DIOBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\DIOBank.AssemblyInfoInputs.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\DIOBank.AssemblyInfo.cs
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\DIOBank.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\DIOBank.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\ref\DIOBank.dll
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\DIOBank.pdb
+C:\Users\Gabriel Henrique\OneDrive - Etec Centro Paula Souza\Área de Trabalho\RepositorioDIO\DIOBank\obj\Debug\net5.0\DIOBank.genruntimeconfig.cache
