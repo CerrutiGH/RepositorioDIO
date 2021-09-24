@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JQX0MTutcj522tjC71TvlSzbOch77OL9lWqCB+4gB/Nyi2xXUOgQZMHR5j7+VRbdqDUHF6/sKfPVXu/1Kvdy7g==",
+  "dgSpecHash": "zLHHbKwpTml++hsdjTR5+y6YsgrXaiIVZLJtE4WXl+GHQ7m1mKD97gft+fiE8VO0fwZ9UnPgXpPEJ7/5cLGltA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel Henrique\\source\\repos\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj",
+  "projectFilePath": "C:\\Workspaces\\RepositorioDIO\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel Henrique\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel Henrique\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

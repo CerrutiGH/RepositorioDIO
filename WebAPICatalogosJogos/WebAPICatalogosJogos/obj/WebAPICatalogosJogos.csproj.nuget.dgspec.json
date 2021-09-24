@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel Henrique\\source\\repos\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj": {}
+    "C:\\Workspaces\\RepositorioDIO\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Henrique\\source\\repos\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj": {
+    "C:\\Workspaces\\RepositorioDIO\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Henrique\\source\\repos\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj",
+        "projectUniqueName": "C:\\Workspaces\\RepositorioDIO\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj",
         "projectName": "WebAPICatalogosJogos",
-        "projectPath": "C:\\Users\\Gabriel Henrique\\source\\repos\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj",
+        "projectPath": "C:\\Workspaces\\RepositorioDIO\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\WebAPICatalogosJogos.csproj",
         "packagesPath": "C:\\Users\\Gabriel Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Henrique\\source\\repos\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\obj\\",
+        "outputPath": "C:\\Workspaces\\RepositorioDIO\\WebAPICatalogosJogos\\WebAPICatalogosJogos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

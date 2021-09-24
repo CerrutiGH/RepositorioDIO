@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using WebAPICatalogosJogos.InputModel;
 using WebAPICatalogosJogos.Services;
 using WebAPICatalogosJogos.ViewModel;
+using WebAPICatalogosJogos.Exceptions;
 
 namespace WebAPICatalogosJogos.Controllers.V1
 {
@@ -53,9 +54,9 @@ namespace WebAPICatalogosJogos.Controllers.V1
                 return Ok(jogo);
             }
             //catch(JogoJaCadastradosException ex)
-            catch(Exception ex)
+            catch(JogoJaCadastradoException ex)
             {
-                return UnprocessableEntity("Já existe um jogo com este nome para a produtora");
+                return UnprocessableEntity(ex);
             }
 
             return Ok();
