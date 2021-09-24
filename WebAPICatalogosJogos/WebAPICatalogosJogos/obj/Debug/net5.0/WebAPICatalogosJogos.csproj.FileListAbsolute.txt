@@ -1,27 +1,27 @@
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\appsettings.json
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.exe
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.deps.json
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.runtimeconfig.json
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.runtimeconfig.dev.json
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.dll
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\ref\WebAPICatalogosJogos.dll
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.pdb
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.csproj.AssemblyReference.cache
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.AssemblyInfoInputs.cache
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.AssemblyInfo.cs
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\scopedcss\bundle\WebAPICatalogosJogos.styles.css
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\staticwebassets\WebAPICatalogosJogos.StaticWebAssets.Manifest.cache
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.RazorTargetAssemblyInfo.cache
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.dll
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\ref\WebAPICatalogosJogos.dll
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.pdb
-C:\Users\Gabriel Henrique\source\repos\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.genruntimeconfig.cache
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\appsettings.Development.json
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\appsettings.json
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.exe
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.deps.json
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.runtimeconfig.json
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.runtimeconfig.dev.json
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.dll
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\ref\WebAPICatalogosJogos.dll
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\WebAPICatalogosJogos.pdb
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.csproj.AssemblyReference.cache
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.AssemblyInfoInputs.cache
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.AssemblyInfo.cs
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.csproj.CoreCompileInputs.cache
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\scopedcss\bundle\WebAPICatalogosJogos.styles.css
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\staticwebassets\WebAPICatalogosJogos.StaticWebAssets.Manifest.cache
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.RazorTargetAssemblyInfo.cache
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.dll
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\ref\WebAPICatalogosJogos.dll
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.pdb
+C:\Workspaces\RepositorioDIO\WebAPICatalogosJogos\WebAPICatalogosJogos\obj\Debug\net5.0\WebAPICatalogosJogos.genruntimeconfig.cache

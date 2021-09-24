@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICatalogosJogos", "WebAPICatalogosJogos\WebAPICatalogosJogos.csproj", "{0ED27641-F37B-4EC7-B490-1EA085820432}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICatalogosJogos", "WebAPICatalogosJogos\WebAPICatalogosJogos.csproj", "{B92FA1EA-DE60-4B7D-8096-EB04370EF321}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0ED27641-F37B-4EC7-B490-1EA085820432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0ED27641-F37B-4EC7-B490-1EA085820432}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0ED27641-F37B-4EC7-B490-1EA085820432}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0ED27641-F37B-4EC7-B490-1EA085820432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92FA1EA-DE60-4B7D-8096-EB04370EF321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92FA1EA-DE60-4B7D-8096-EB04370EF321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92FA1EA-DE60-4B7D-8096-EB04370EF321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92FA1EA-DE60-4B7D-8096-EB04370EF321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {809F69CB-0898-4200-9957-62C589C731B0}
+		SolutionGuid = {BA35BB29-DE2B-426B-9EC9-F1B6768733B3}
 	EndGlobalSection
 EndGlobal
