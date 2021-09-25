@@ -11,6 +11,7 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.IO;
 using System.Reflection;
+using WebAPICatalogosJogos.Controllers.v1;
 
 namespace WebAPICatalogosJogos
 {
@@ -31,9 +32,9 @@ namespace WebAPICatalogosJogos
 
             #region CicloDeVida
 
-            //services.AddSingleton<IExemploSingleton, ExemploCicloDeVida>();
-            //services.AddScoped<IExemploScoped, ExemploCicloDeVida>();
-            //services.AddTransient<IExemploTransient, ExemploCicloDeVida>();
+            services.AddSingleton<IExemploSingleton, ExemploCicloDeVida>();
+            services.AddScoped<IExemploScoped, ExemploCicloDeVida>();
+            services.AddTransient<IExemploTransient, ExemploCicloDeVida>();
 
             #endregion
 
@@ -41,6 +42,9 @@ namespace WebAPICatalogosJogos
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ExemploApiCatalogoJogos", Version = "v1" });
+                var basePath = AppDomain.CurrentDomain.BaseDirectory;
+                var fileName = typeof(Startup).GetTypeInfo().Assembly.GetName().Name + ".xml";
+                c.IncludeXmlComments(Path.Combine(basePath, fileName));
 
             });
         }
